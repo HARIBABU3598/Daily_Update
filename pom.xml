@@ -9,9 +9,15 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
+<<<<<<< HEAD
 	<artifactId>OneToMany</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>OneToMany</name>
+=======
+	<artifactId>Mapping</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>OneToOne</name>
+>>>>>>> 59e73a88a63488bc19df23d42dea0ef52d56ac6c
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
